@@ -1,1 +1,4 @@
-# git_practice_file2
+# git-playground
+
+## 첫 번째 버그
+- 모기가 날아왔다.
